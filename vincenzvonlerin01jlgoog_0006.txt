@@ -1,0 +1,4 @@
+&w &0400
+
+Druck von C. A. Wagner in Freiburg i. Br.
+
